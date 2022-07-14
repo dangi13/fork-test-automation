@@ -12,7 +12,8 @@ the test suite execution will start and you can see the execution report under *
 
 
 **How to run test using github actions**    :rocket:   
-I have created a github workflow for this project to run the tests   
+I have created a github workflow for this project to run the tests    
+
 On this repository   
 1. Go to Actions tab in this repository
 2. Click on workflow `Fork API Automation`
