@@ -44,7 +44,7 @@ public class PokemonServiceActions {
 				listOfPokemonsWithNormalType.add(result);
 		}); 
 		
-		LOGGER.info("Normal pokemon list: ", listOfPokemonsWithNormalType.toString());
+		LOGGER.info("Normal pokemon list: {}", listOfPokemonsWithNormalType.toString());
 		
 		return listOfPokemonsWithNormalType;
 	}
