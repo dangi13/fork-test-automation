@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="fork-api-smoke-suite" verbose="8">
+	<listeners>
+		<listener class-name="fork.api.listeners.CustomReporter" />
+	</listeners>
+
+	<test name="PokemonTest">
+		<classes>
+			<class name="fork.api.test.pokemon.PokemonTest">
+				<methods>
+					<include name="test_pokemon_having_normal_type" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>
