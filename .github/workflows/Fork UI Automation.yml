@@ -27,3 +27,10 @@ jobs:
       env: # lookup key as an environment variable
         BROWSERSTACK_URL: ${{ secrets.BROWSERSTACK_URL }}
       run: mvn clean install -f fork-ui/pom.xml
+    - name: Save test results
+      if: always()
+      uses: actions/upload-artifact@v3
+      with:
+          name: test-result
+          path: |
+            fork-ui/test-result
