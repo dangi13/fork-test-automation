@@ -1,8 +1,8 @@
-This is just a basic framework under development for automating of Web applications using Selenium and Java.
+ :seedling: This is just a basic framework under development for automating of Web applications.  `Java` `Selenium` `TestNG` `ExtentReports`
 
- Designed specifically for `fork` project.
+ Designed specifically for `fork` project.   :fork_and_knife::chopsticks::spoon::plate_with_cutlery:   
 
-**How to run test locally**
+**How to run test locally** :desktop_computer:    
 
 1. Go to the project folder `fork-ui` where `pom.xml` file is present.
 2. Open terminal/CMD in this folder.   
@@ -10,9 +10,11 @@ This is just a basic framework under development for automating of Web applicati
 
 the test suite execution will start and you can see the execution report under **test-result** folder.
 
-**How to run test on BrowserStack**   
-I have created a github workflow for this project that will execute the script on BrowserStack   
+**How to run test on BrowserStack**   :cloud_with_lightning_and_rain:   :rocket:   
+I have created a github workflow for this project that will execute the script on BrowserStack  
+
 On this repository   
+
 1. Go to Actions tab in this repository
 2. Click on workflow `Fork UI Automation`
 3. Click on `Run workflow` dropdown 
