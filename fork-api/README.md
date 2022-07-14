@@ -19,6 +19,8 @@ On this repository
 3. Click on `Run workflow` dropdown 
 4. Click on green `Run workflow` button   
 
-Refresh the browser and you can see that run has been started. Check logs of the tests by going inside this running workflow.
+Refresh the browser and you can see that run has been started. Check logs of the tests by going inside this running workflow.   
+You can also download the `test-result` folder present inside `Artifact` block in last github workflow run and see the extent HTML report.
+
 Cheers :shipit: :tada:
 
