@@ -1,6 +1,6 @@
-This is just a basic framework under development for automating Web applications and APIs.
+:seedling: :potted_plant: This is just a basic framework under development for automating Web applications and APIs.
 
-Designed specifically for `fork` project.
+Designed specifically for `fork` project.  :fork_and_knife::chopsticks::spoon::plate_with_cutlery:
 
 This is a multi module maven project.
 You will find the instructions on how to run the tests inside the README of each module.
