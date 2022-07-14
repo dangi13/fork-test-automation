@@ -2,7 +2,7 @@ This is just a basic framework under development for automating of Web applicati
 
  Designed specifically for `fork` project.
 
-**How to run test locally **
+**How to run test locally**
 
 1. Go to the project folder `fork-ui` where `pom.xml` file is present.
 2. Open terminal/CMD in this folder.   
