@@ -25,5 +25,12 @@ jobs:
         cache: maven
     - name: Run API tests
       run: mvn clean install -f fork-api/pom.xml
+    - name: Save test results
+      if: always()
+      uses: actions/upload-artifact@v3
+      with:
+          name: test-result
+          path: |
+            fork-api/test-result
       
       
