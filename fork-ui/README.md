@@ -22,7 +22,9 @@ Login to browserstack to see results, follow below steps
 Sign in: [BrowserStack](https://www.browserstack.com/users/sign_in )  
 Username: gawolo8548@satedly.com   
 Password: Fork@123   
-Now go to [dashboard](https://automate.browserstack.com/dashboard/v2/builds)  to check your run. You can see here video of your execution and all the logs.   
+Now go to [dashboard](https://automate.browserstack.com/dashboard/v2/builds)  to check your run. You can see here video of your execution and all the logs. 
+
+You can also download the `test-result` folder present inside `Artifact` block in last github workflow run and see the extent HTML report.   
 
 Cheers :shipit: :tada:
 
