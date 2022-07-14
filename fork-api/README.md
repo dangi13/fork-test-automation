@@ -1,8 +1,8 @@
-This is just a basic framework under development for automating REST APIs .
+:seedling: This is just a basic framework under development for automating REST APIs .
 
- Designed specifically for `fork` project.
+ Designed specifically for `fork` project.  :fork_and_knife::chopsticks::spoon::plate_with_cutlery:
 
-**How to Run test locally**
+**How to run test locally**  :desktop_computer:   
 
 1. Go to the project folder `fork-api` where `pom.xml` file is present.
 2. Open terminal/CMD in this folder.
@@ -11,7 +11,7 @@ This is just a basic framework under development for automating REST APIs .
 the test suite execution will start and you can see the execution report under **test-result** folder that will be generated after run (refresh project folder if you don't see it).
 
 
-**How to run test using github actions**   
+**How to run test using github actions**    :rocket:   
 I have created a github workflow for this project to run the tests   
 On this repository   
 1. Go to Actions tab in this repository
