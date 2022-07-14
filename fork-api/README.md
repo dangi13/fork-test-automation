@@ -8,7 +8,7 @@ This is just a basic framework under development for automating REST APIs .
 2. Open terminal/CMD in this folder.
 3. Run command **mvn clean install**
 
-the test suite execution will start and you can see the execution report under **test-result** folder.
+the test suite execution will start and you can see the execution report under **test-result** folder that will be generated after run (refresh project folder if you don't see it).
 
 
 **How to run test using github actions**   
