@@ -30,7 +30,6 @@ public class BaseConfiguration {
 			WebUtils.setDriver(driver);
 			driver.manage().window().maximize();
 			WebUtils.navigateToURL(APPLICATION_URL);
-			WebUtils.sleep(30);
 		} catch (Exception e) {
 			LOGGER.error("Error occured {} ", e.getMessage());
 
