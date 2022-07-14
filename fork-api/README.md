@@ -1,4 +1,4 @@
-:seedling: This is just a basic framework under development for automating REST APIs .
+:seedling: This is just a basic framework under development for automating REST APIs .  `Java` `TestNG` `RestAssured` `ExtentReports`
 
  Designed specifically for `fork` project.  :fork_and_knife::chopsticks::spoon::plate_with_cutlery:
 
@@ -23,5 +23,4 @@ On this repository
 Refresh the browser and you can see that run has been started. Check logs of the tests by going inside this running workflow.   
 You can also download the `test-result` folder present inside `Artifact` block in last github workflow run and see the extent HTML report.
 
-Cheers :shipit: :tada:
-
+Cheers :shipit: :tada:   
